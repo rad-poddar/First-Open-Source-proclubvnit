@@ -30,6 +30,11 @@ void PrintMatrix(int r,int c,int Matrix[][c])
     }
     
 }
+void matrixes()
+{
+  int a=0,b=0;
+   printf("%d %d",a,b);
+}
 void ReadMatrix(int r,int c,int Matrix[][c])
 {  int i,j;
    for(i=0;i<r;i++)
