@@ -76,6 +76,7 @@ int main(){
     int option,num;
     printf("Enter the number of choices\n");
     scanf("%d",&num);
+    matrixes();
     while(num--)
     {
 
